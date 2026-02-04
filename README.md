@@ -10,13 +10,13 @@
 
 📌 Prerequisites
 
-1. AWS Account
+ 1. AWS Account
 
-2.IAM User with permissions:
+ 2.IAM User with permissions:
 
- 1. EC2
+      1. EC2
 
- 2.VPC
+      2. VPC
 
  3.Security Groups
 
