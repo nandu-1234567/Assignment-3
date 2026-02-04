@@ -12,7 +12,7 @@
 
  1. AWS Account
 
- 2.IAM User with permissions:
+ 2. IAM User with permissions:
 
       1. EC2
 
